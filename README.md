@@ -16,9 +16,10 @@ Then modify H4.py in your IDE (Visual Studio Code). After you get something work
 When you are ready to do a commit
 
 Open a terminal window
-Change directory to your repository
-git add H4.py #to add the file to the staging area
-git status # to check that the file is in the staging area
-git commit -m "Message" # Replace Message with some text that explains the current state of your file
-git push -u origin master # To push your commits to github
+and change directory (cd) to your repository
+- git add H4.py #to add the file to the staging area
+- git status # to check that the file is in the staging area
+- git commit -m "Message" # Replace Message with some text that explains the current state of your file
+- git push -u origin master # To push your commits to github
+
 Be sure to turn in a link to your repo on Canvas by the due date! You don't have to upload any files to Canvas.
